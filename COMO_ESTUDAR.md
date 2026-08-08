@@ -57,3 +57,7 @@ Envie sua atividade.
 ## Dúvidas sobre Git ou GitHub?
 
 Se você não sabe como fazer `git pull`, como enviar sua atividade (`add`, `commit`, `push`), ou está travado em algum erro do Git, consulte o [Guia de Git e GitHub](GUIA_GIT_GITHUB.md). Ele cobre desde a instalação até os erros mais comuns.
+
+## Dúvidas sobre como usar a IA (Passo 5)?
+
+O passo "Converse com o Tutor IA" pode ser feito com ferramentas pagas ou gratuitas. Veja o [Guia de Uso da IA](GUIA_USAR_IA.md) para as opções — inclui como usar IA gratuita e como enviar o repositório inteiro em `.zip` para um chat como o ChatGPT.

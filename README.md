@@ -40,6 +40,10 @@ Você aprenderá não apenas os conceitos de Projeto de Sistemas, mas também co
 
 Se você nunca usou Git ou GitHub, ou não sabe como enviar suas atividades, leia o [Guia de Git e GitHub](GUIA_GIT_GITHUB.md) antes de continuar. Ele explica, passo a passo, desde a instalação até como confirmar que sua entrega chegou.
 
+## Como conversar com o Tutor IA
+
+O [Guia de Uso da IA](GUIA_USAR_IA.md) mostra várias formas de acessar o Tutor MentorPS — com ferramentas pagas (Claude Code) ou totalmente gratuitas (chat gratuito na web, upload do repositório em `.zip`, OpenRouter, GitHub Copilot). Escolha a que for mais fácil para você.
+
 ---
 
 ## Como funciona esta disciplina
