@@ -17,6 +17,8 @@ Bem-vindo à primeira semana da Unidade 1.
 - [Referências](REFERENCIAS.md)
 - [Guia da IA](GUIA_IA.md)
 
+Material de apoio (slides, diagramas, PDFs) desta semana: [`material/unidade01/semana01/`](../../../material/unidade01/semana01/).
+
 ---
 
 ## Como estudar esta semana

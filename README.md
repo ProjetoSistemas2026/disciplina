@@ -28,6 +28,14 @@ Você aprenderá não apenas os conceitos de Projeto de Sistemas, mas também co
 
 ---
 
+## Estrutura do repositório
+
+- `unidades/` — conteúdo pedagógico em Markdown (aulas, atividades, desafios).
+- [`material/`](material/README.md) — slides, diagramas e PDFs de apoio.
+- `tutor-ia/` — definição do Tutor MentorPS.
+
+---
+
 ## Como funciona esta disciplina
 
 Todo o conteúdo será disponibilizado gradativamente.

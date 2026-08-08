@@ -11,3 +11,4 @@ Formato de cada entrada: `AAAA-MM-DD` — descrição da mudança.
 - Reorganizada a Unidade 1: conteúdo específico de semana movido para `unidades/unidade01/semana01/`, mantendo `README`, `OBJETIVOS` e `COMPETENCIAS` no nível da unidade.
 - Criado este CHANGELOG, referenciado pelo README e pelo CRONOGRAMA mas até então inexistente.
 - Reestruturado o CRONOGRAMA com tabela de semanas.
+- Criada a pasta `material/` (separada de `unidades/`), com convenção de nomenclatura e regra de versionamento para diagramas PlantUML/Draw.io.
