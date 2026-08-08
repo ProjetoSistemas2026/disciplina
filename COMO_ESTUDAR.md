@@ -51,3 +51,9 @@ Faça a autoavaliação.
 ## Passo 9
 
 Envie sua atividade.
+
+---
+
+## Dúvidas sobre Git ou GitHub?
+
+Se você não sabe como fazer `git pull`, como enviar sua atividade (`add`, `commit`, `push`), ou está travado em algum erro do Git, consulte o [Guia de Git e GitHub](GUIA_GIT_GITHUB.md). Ele cobre desde a instalação até os erros mais comuns.

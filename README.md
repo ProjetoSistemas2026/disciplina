@@ -36,6 +36,12 @@ Você aprenderá não apenas os conceitos de Projeto de Sistemas, mas também co
 
 ---
 
+## Primeira vez usando Git e GitHub?
+
+Se você nunca usou Git ou GitHub, ou não sabe como enviar suas atividades, leia o [Guia de Git e GitHub](GUIA_GIT_GITHUB.md) antes de continuar. Ele explica, passo a passo, desde a instalação até como confirmar que sua entrega chegou.
+
+---
+
 ## Como funciona esta disciplina
 
 Todo o conteúdo será disponibilizado gradativamente.
