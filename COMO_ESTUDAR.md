@@ -14,7 +14,7 @@ git pull
 
 ## Passo 2
 
-Leia o CHANGELOG.
+Leia o [CHANGELOG](CHANGELOG.md).
 
 Veja quais conteúdos foram disponibilizados.
 

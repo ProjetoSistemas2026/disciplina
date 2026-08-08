@@ -53,3 +53,12 @@ Cada semana possui:
 - Checklist
 
 - Autoavaliação
+
+---
+
+## Semanas
+
+- [Semana 01](semana01/README.md)
+- Semana 02 — em breve
+- Semana 03 — em breve
+- Semana 04 — em breve

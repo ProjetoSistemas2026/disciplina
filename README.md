@@ -49,7 +49,7 @@ Antes de iniciar os estudos.
 Toda semana você deverá seguir exatamente esta sequência.
 
 1. Atualizar o repositório
-2. Ler o CHANGELOG
+2. Ler o [CHANGELOG](CHANGELOG.md)
 3. Ler o README da semana
 4. Estudar a aula
 5. Conversar com o Tutor IA
