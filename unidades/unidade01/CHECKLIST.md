@@ -1,33 +1,17 @@
-# Checklist da Unidade
+# Checklist
 
-## Semana 1
+Antes de concluir esta semana verifique:
 
-[ ] Introdução
+[ ] Atualizei o repositório.
 
-[ ] Projeto de Sistemas
+[ ] Li a aula.
 
-[ ] Engenharia de Software
+[ ] Analisei os exemplos.
 
----
+[ ] Realizei a atividade.
 
-## Semana 2
+[ ] Resolvi o desafio.
 
-[ ] Analista de Sistemas
+[ ] Tirei minhas dúvidas com o MentorPS.
 
-[ ] Ciclo de Vida
-
----
-
-## Semana 3
-
-[ ] Planejamento
-
-[ ] Estudo de Viabilidade
-
----
-
-## Semana 4
-
-[ ] Requisitos
-
-[ ] Revisão
+[ ] Fiz minha autoavaliação.
